@@ -26,5 +26,5 @@ AI-powered travel assistant that generates personalized itineraries while effici
 AI-powered document intelligence system with grounded RAG, document classification, OCR, and citations. This deployment supports handwritten documents up to **16 pages** per file.
 
 * Repository: [Document Intelligence + Agentic RAG](https://github.com/Sahilkatkamwar/RAG---Document-Intelligence-Assistant)
-* Live Demo: https://rag---document-intelligence-assistant-cxir7xhaq8ehpgqtjhen4j.streamlit.app/
+* Live Demo: [DIAG live demo](https://rag---document-intelligence-assistant-cxir7xhaq8ehpgqtjhen4j.streamlit.app/)
 * Tech: Streamlit, Google Gemini, FAISS, Pydantic, pdfplumber, PyMuPDF, Python
