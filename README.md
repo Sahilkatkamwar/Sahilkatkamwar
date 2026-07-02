@@ -21,8 +21,10 @@ AI-powered travel assistant that generates personalized itineraries while effici
 - Repository: [AI Travel Planner](https://github.com/Sahilkatkamwar/ai-travel-planner-rag)
 - Tech: Python, Llama.cpp, Gemini API
 
-### 🔍 Crack Detection System
-Deep learning-based crack segmentation system using a U-Net architecture for crack detection and measurement.
+### 🔍 Document Intelligence + Agentic RAG
 
-- Repository: [Crack Detection System](https://github.com/Sahilkatkamwar/crack-detection)
-- Tech: TensorFlow, OpenCV, Python
+AI-powered document intelligence system with grounded RAG, document classification, OCR, and citations. This deployment supports handwritten documents up to **16 pages** per file.
+
+* Repository: [Document Intelligence + Agentic RAG](https://github.com/Sahilkatkamwar/RAG---Document-Intelligence-Assistant)
+* Live Demo: https://rag---document-intelligence-assistant-cxir7xhaq8ehpgqtjhen4j.streamlit.app/
+* Tech: Streamlit, Google Gemini, FAISS, Pydantic, pdfplumber, PyMuPDF, Python
